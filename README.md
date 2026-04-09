@@ -1,0 +1,2 @@
+# customer-trends-data-analysis-SQL-Python-PowerBI
+This end-to-end data analytics pipeline uses SQL to extract and clean raw customer transaction data from relational databases. Python is then utilized to perform statistical analysis and RFM customer segmentation. Finally, an interactive Power BI dashboard visualizes key KPIs, providing actionable insights to optimize targeted marketing strategies.
